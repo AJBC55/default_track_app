@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:platform_maps_flutter/platform_maps_flutter.dart';
 
-// this File should contain all of the track specific information there should be no track specific informaton in any other file other than here or a media file
-// !!!All app specific data should be passed to each part of the app
-// Ex: events timing through dependancy injection!!!
+// requires firebase setup for the specific project to get firebase_options.dart
+
 const String geteventsUrl =
     "https://css-container-ztob2eeuta-uc.a.run.app/consumer/events/irwindale";
 const String userUrl =
@@ -14,7 +13,6 @@ const String getNewsUrl =
     "https://css-container-ztob2eeuta-uc.a.run.app/consumer/news/irwindale";
 const String getTimingURl =
     "https://css-container-ztob2eeuta-uc.a.run.app/timing/subscribe/irwindale";
-
 final Image logo = Image.asset(
   'assets/logo.png',
   height: 50,

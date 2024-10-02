@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Entrance",
+        "lat": -117.98556,
+        "lon": 34.11049,
+        "description": "Welcome to the speedway! This is the main entrance where all the excitement begins. Here, you'll start your adventure into the world of high-speed racing and unforgettable events.",
+        "img_link": "assets/map_images/Entrance.jpg"
+        
+    },
+    {
+        "name": "Ticket Office",
+        "lat": -117.98608,
+        "lon": 34.10891,
+        "description": "Visit our ticket office to purchase or pick up your tickets. Our friendly staff can help answer any questions you may have about the event schedules.",
+        "img_link": "assets/map_images/ticket_office.jpg"
+    },
+    {
+        "name": "Irwindale Dragstrip",
+        "lat" : -117.98324,
+        "lon" : 34.10697,
+        "description": "Experience the thrill at Los Angeles's premier drag strip. The Irwindale Dragstrip is renowned for its adrenaline-pumping races, showcasing some of the fastest vehicles and skilled drivers in the region.",
+        "img_link": "assets/map_images/dragstrip.jpg"
+    },
+    {
+        "name": "Irwindale Speedway",
+        "lat" : -117.98781,
+        "lon" : 34.11015,
+        "description" : "Irwindale Speedway offers exhilarating races and spectacular views from every seat. Feel the speed and roar of engines in what's truly a racer's paradise.",
+        "img_link": "assets/map_images/speedway.jpg"
+    },
+    {
+        "name" : "Concessions",
+        "lat": -117.98758,
+        "lon" : 34.11078,
+        "description": "Satisfy your cravings at our concession stands, which offer a variety of food and beverages. From classic snacks to hearty meals, there's something here to fuel your excitement through every lap.",
+        "img_link": "assets/map_images/concessions.jpg"
+    },
+    {
+        "name" : "Pit Area",
+        "lat" : -117.98809,
+        "lon" : 34.11130,
+        "description": "Get up close to the heart of racing in our Pit Area. Accessible with a pit pass, this area offers a behind-the-scenes look at team preparations and car setups—perfect for motor enthusiasts eager to learn more about the racing world.",
+        "img_link": "assets/map_images/pit_area.jpg"
+    },
+    {
+        "name" : "Parking Lot",
+        "lat" : -117.98385,
+        "lon" : 34.10880,
+        "description": "Conveniently located close to all the action, our parking lot provides ample space for your vehicle. Arrive early to secure a spot and enjoy a short walk to the main attractions.",
+        "img_link": "assets/map_images/parkinglot.png"
+    },
+    {
+        "name" : "Burnout Box",
+        "lat" :  -117.98548,
+        "lon" : 34.10894,
+        "description" : "Feel the heat at the Burnout Box, where drivers prep their tires for the ultimate traction before hitting the strip. It's a must-see for those who love the spectacle of smoke and revving engines.",
+        "img_link": "assets/map_images/burnoutbox.jpg"
+    }
+
+]
